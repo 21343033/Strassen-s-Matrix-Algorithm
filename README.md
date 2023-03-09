@@ -1,5 +1,5 @@
 # Strassen's Matrix Algorithm
-Tugas Mandiri 1
+Tugas Mandiri 1  
 Mata kuliah    : Perancangan dan Analisis Algoritma  
 Nama Algoritma : Strassen's Matrix Algorithm  
 Seksi          : 202223430034  
